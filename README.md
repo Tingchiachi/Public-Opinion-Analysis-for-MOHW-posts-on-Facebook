@@ -6,3 +6,9 @@
 
 ## 相關連結
 [Covid-19 確診數與衛服部貼文統計資訊趨勢圖 (Tableau)](https://public.tableau.com/app/profile/.66553993/viz/0606_16545404827550/all_week)
+
+
+## 使用工具
+>Python:jieba, TF-IDF(jieba.analyse), matplotlib
+
+>Tableau
